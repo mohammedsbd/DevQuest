@@ -1,0 +1,38 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  username: postgres
+  password: 12345678
+  host: localhost
+  port: 5432
+
+development:
+  <<: *default
+  database: code_Challenges_development
+
+test:
+  <<: *default
+  database: code_Challenges_test
+
+production:
+  primary: &primary_production
+    <<: *default
+    database: code_Challenges_production
+    username: postgres
+    password: 12345678
+
+  cache:
+    <<: *primary_production
+    database: code_Challenges_production_cache
+    migrations_paths: db/cache_migrate
+
+  queue:
+    <<: *primary_production
+    database: code_Challenges_production_queue
+    migrations_paths: db/queue_migrate
+
+  cable:
+    <<: *primary_production
+    database: code_Challenges_production_cable
+    migrations_paths: db/cable_migrate
