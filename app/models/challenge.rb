@@ -1,2 +1,7 @@
 class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :participants, through: :challenge_participants, source: :user
+
+  validates :name, presence: true
+  validates :description, presence: true
 end
