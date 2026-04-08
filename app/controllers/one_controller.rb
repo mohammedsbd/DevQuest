@@ -5542,6 +5542,7 @@ end
 end
 class Challenge < ApplicationRecord
 class Challenge < ApplicationRecord
+class Challenge < AX
 class Challenge < ApplicationRecord
   has_many :challenge_participants, dependent: :destroy
   has_many :challenge_participants, dependent: :destroy
