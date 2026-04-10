@@ -6538,6 +6538,138 @@ class Challenge < ApplicationRecord
 class Challenge < ApplicationRecord
   has_many :challenge_participants, dependent: :destroy
 class Challenge < ApplicationRecord
+
+end
+end
+end
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+class Challenge < AX
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :participants, through: :challenge_participants, source: :user
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :participants, through: :challenge_participants, source: :user
+
+  validates :name, presence: true
+  validates :description, presence: true
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+
+end
+end
+end
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+class Challenge < AX
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :participants, through: :challenge_participants, source: :user
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :participants, through: :challenge_participants, source: :user
+
+  validates :name, presence: true
+  validates :description, presence: true
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
+  has_many :challenge_participants, dependent: :destroy
+class Challenge < ApplicationRecord
   has_many :challenge_participants, dependent: :destroy
   has_many :participants, through: :challenge_participants, source: :user
 
