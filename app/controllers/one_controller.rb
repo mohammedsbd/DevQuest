@@ -7687,6 +7687,7 @@ class Challenge < ApplicationRecord
   has_many :participants, through: :challenge_participants, source: :user
 
 
+
 end
 end
 end
