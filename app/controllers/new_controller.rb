@@ -47446,6 +47446,58 @@ gh: :challenge_participants, source: :user
   has_many :challenge_participants, dependent: :destroy
   has_many :challenge_participants, dependent: :destroy
   has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
+  has_many :challenge_participants, dependent: :destroy
   has_many :participants, through: :challenge_participants, source: :user
   has_many :participants, through: :challenge_participants, source: :user
   has_many :participants, through: :challenge_participants, source: :user
